@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(149, 192, 209);
+}
+
+h1 {
+    font-family: cursive;
+}
+
+h2 {
+    font-family: cursive;
+}
+
+.historia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color: rgb(88, 155, 160) ;
+    border-radius: 5px;
+}
+
+.opciones {
+    font-size: 200%;
+    font-family: cursive;
+    color: rgb(111, 111, 190);
+}
+
+a {
+    font-size: 125%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
